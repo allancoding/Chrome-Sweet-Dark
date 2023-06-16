@@ -1,0 +1,32 @@
+{
+    "manifest_version": 2,
+    "version": "4.0",
+    "name": "Sweet Dark",
+    "theme": {
+      "images": {
+        "theme_ntp_background": "images/theme_ntp_background.jpeg"
+      },
+      "properties": {
+        "ntp_background_alignment": "bottom",
+        "ntp_background_repeat": "no-repeat"
+      },
+      "colors": {
+        "toolbar": [22, 25, 37],
+        "toolbar_field": [12, 14, 20],
+        "toolbar_field_text": [197, 14, 210],
+        "toolbar_field_border_focus": [197, 14, 210],
+        "tab_line": [197, 14, 210],
+        "popup": [12, 14, 20],
+        "popup_text": [195, 199, 209],
+        "popup_highlight": [197, 14, 210],
+        "tab_loading": [197, 14, 210],
+        "ntp_background": [22, 25, 37],
+        "ntp_text": [195, 199, 209],
+        "sidebar": [12, 14, 20],
+        "bookmark_text": [195, 199, 209],
+        "frame": [12, 14, 20],
+        "tab_background_text": [85, 84, 91]
+      }
+    }
+  }
+  
